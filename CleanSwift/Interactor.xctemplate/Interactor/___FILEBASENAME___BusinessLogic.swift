@@ -8,6 +8,6 @@
 
 import Foundation
 
-protocol ___VARIABLE_sceneName___BusinessLogic: class {
+protocol ___VARIABLE_sceneName___BusinessLogic: AnyObject {
     func doSomething(request: ___VARIABLE_sceneName___.Something.Request)
 }

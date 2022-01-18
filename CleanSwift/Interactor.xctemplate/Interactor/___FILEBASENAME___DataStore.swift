@@ -8,6 +8,6 @@
 
 import Foundation
 
-protocol ___VARIABLE_sceneName___DataStore: class {
+protocol ___VARIABLE_sceneName___DataStore: AnyObject {
     //var name: String { get set }
 }

@@ -8,6 +8,6 @@
 
 import Foundation
 
-protocol ___VARIABLE_sceneName___PresentationLogic: class {
+protocol ___VARIABLE_sceneName___PresentationLogic: AnyObject {
     func presentSomething(response: ___VARIABLE_sceneName___.Something.Response)
 }

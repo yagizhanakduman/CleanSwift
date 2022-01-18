@@ -8,6 +8,6 @@
 
 import Foundation
 
-protocol ___VARIABLE_sceneName___RoutingLogic: class {
+protocol ___VARIABLE_sceneName___RoutingLogic: AnyObject {
     //func routeToSomewhere(segue: UIStoryboardSegue?)
 }
