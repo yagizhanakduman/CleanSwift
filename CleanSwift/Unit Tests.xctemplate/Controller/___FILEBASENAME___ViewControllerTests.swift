@@ -9,7 +9,7 @@
 @testable import ___PROJECTNAMEASIDENTIFIER___
 import XCTest
 
-class ___VARIABLE_sceneName___ViewControllerTests: XCTestCase {
+final class ___VARIABLE_sceneName___ViewControllerTests: XCTestCase {
     
     // MARK: Subject under test
     var sut: ___VARIABLE_sceneName___ViewController!
