@@ -48,6 +48,34 @@
 		</dict>
 		<dict>
 			<key>Default</key>
+			<string>___VARIABLE_sceneName:identifier___DisplayLogicSpy</string>
+			<key>Description</key>
+			<string>The view controller&apos;s display logic spy name</string>
+			<key>Identifier</key>
+			<string>displayLogicSpyName</string>
+			<key>Name</key>
+			<string>Display Logic Spy Name:</string>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>___VARIABLE_sceneName:identifier___RoutingLogicSpy</string>
+			<key>Description</key>
+			<string>The view controller&apos;s routing logic spy name</string>
+			<key>Identifier</key>
+			<string>routingLogicSpyName</string>
+			<key>Name</key>
+			<string>Routing Logic Spy Name:</string>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
 			<string>___VARIABLE_sceneName:identifier___InteractorTests</string>
 			<key>Description</key>
 			<string>The interactor tests name</string>
@@ -62,6 +90,20 @@
 		</dict>
 		<dict>
 			<key>Default</key>
+			<string>___VARIABLE_sceneName:identifier___BusinessLogicSpy</string>
+			<key>Description</key>
+			<string>The interactor&apos;s business logic spy name</string>
+			<key>Identifier</key>
+			<string>businessLogicSpyName</string>
+			<key>Name</key>
+			<string>Business Logic Spy Name:</string>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
 			<string>___VARIABLE_sceneName:identifier___PresenterTests</string>
 			<key>Description</key>
 			<string>The presenter tests name</string>
@@ -69,6 +111,20 @@
 			<string>presenterTestsName</string>
 			<key>Name</key>
 			<string>Presenter Tests Name:</string>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>___VARIABLE_sceneName:identifier___PresentationLogicSpy</string>
+			<key>Description</key>
+			<string>The presenter&apos;s presentation logic spy name</string>
+			<key>Identifier</key>
+			<string>presentationLogicSpyName</string>
+			<key>Name</key>
+			<string>Presentation Logic Spy Name:</string>
 			<key>Required</key>
 			<true/>
 			<key>Type</key>
